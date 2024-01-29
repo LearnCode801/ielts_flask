@@ -1,2 +1,3 @@
-flask
+Flask
 langchain
+Werkzeug==2.2.2
